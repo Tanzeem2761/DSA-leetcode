@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/mtanzeem049-del/MD/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/mtanzeem049-del/MD/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/mtanzeem049-del/MD/tree/master/1025-divisor-game) |
 ## Dynamic Programming
@@ -60,6 +61,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/mtanzeem049-del/MD/tree/master/0258-add-digits) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mtanzeem049-del/MD/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Binary Search
 |  |
@@ -90,4 +92,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/mtanzeem049-del/MD/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mtanzeem049-del/MD/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
