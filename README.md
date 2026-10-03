@@ -36,6 +36,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mtanzeem049-del/MD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/mtanzeem049-del/MD/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/mtanzeem049-del/MD/tree/master/0414-third-maximum-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/mtanzeem049-del/MD/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mtanzeem049-del/MD/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1672-richest-customer-wealth](https://github.com/mtanzeem049-del/MD/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mtanzeem049-del/MD/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mtanzeem049-del/MD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/mtanzeem049-del/MD/tree/master/0287-find-the-duplicate-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/mtanzeem049-del/MD/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Matrix
 |  |
 | ------- |
