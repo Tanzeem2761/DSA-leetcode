@@ -11,6 +11,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mtanzeem049-del/MD/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mtanzeem049-del/MD/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mtanzeem049-del/MD/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mtanzeem049-del/MD/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [1672-richest-customer-wealth](https://github.com/mtanzeem049-del/MD/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mtanzeem049-del/MD/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mtanzeem049-del/MD/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3875-construct-uniform-parity-array-i](https://github.com/mtanzeem049-del/MD/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
