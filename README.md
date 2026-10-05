@@ -37,6 +37,7 @@
 | [0162-find-peak-element](https://github.com/mtanzeem049-del/MD/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mtanzeem049-del/MD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mtanzeem049-del/MD/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mtanzeem049-del/MD/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mtanzeem049-del/MD/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/mtanzeem049-del/MD/tree/master/0414-third-maximum-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mtanzeem049-del/MD/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -86,11 +87,13 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mtanzeem049-del/MD/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/mtanzeem049-del/MD/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mtanzeem049-del/MD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mtanzeem049-del/MD/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mtanzeem049-del/MD/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mtanzeem049-del/MD/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/mtanzeem049-del/MD/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/mtanzeem049-del/MD/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
@@ -123,6 +126,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mtanzeem049-del/MD/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/mtanzeem049-del/MD/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
