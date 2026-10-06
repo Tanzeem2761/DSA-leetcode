@@ -6,6 +6,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/mtanzeem049-del/MD/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/mtanzeem049-del/MD/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/mtanzeem049-del/MD/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/mtanzeem049-del/MD/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/mtanzeem049-del/MD/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mtanzeem049-del/MD/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -91,6 +92,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mtanzeem049-del/MD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mtanzeem049-del/MD/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mtanzeem049-del/MD/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/mtanzeem049-del/MD/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mtanzeem049-del/MD/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Matrix
 |  |
