@@ -44,6 +44,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/mtanzeem049-del/MD/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mtanzeem049-del/MD/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/mtanzeem049-del/MD/tree/master/0414-third-maximum-number) |
+| [0566-reshape-the-matrix](https://github.com/mtanzeem049-del/MD/tree/master/0566-reshape-the-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mtanzeem049-del/MD/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mtanzeem049-del/MD/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1672-richest-customer-wealth](https://github.com/mtanzeem049-del/MD/tree/master/1672-richest-customer-wealth) |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mtanzeem049-del/MD/tree/master/0258-add-digits) |
+| [0566-reshape-the-matrix](https://github.com/mtanzeem049-del/MD/tree/master/0566-reshape-the-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mtanzeem049-del/MD/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Binary Search
 |  |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/mtanzeem049-del/MD/tree/master/0240-search-a-2d-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/mtanzeem049-del/MD/tree/master/0566-reshape-the-matrix) |
 | [1672-richest-customer-wealth](https://github.com/mtanzeem049-del/MD/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
