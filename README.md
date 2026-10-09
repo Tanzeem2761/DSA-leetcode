@@ -64,12 +64,14 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mtanzeem049-del/MD/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mtanzeem049-del/MD/tree/master/0215-kth-largest-element-in-an-array) |
+| [0389-find-the-difference](https://github.com/mtanzeem049-del/MD/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/mtanzeem049-del/MD/tree/master/0414-third-maximum-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mtanzeem049-del/MD/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mtanzeem049-del/MD/tree/master/0202-happy-number) |
+| [0389-find-the-difference](https://github.com/mtanzeem049-del/MD/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mtanzeem049-del/MD/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/mtanzeem049-del/MD/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/mtanzeem049-del/MD/tree/master/0389-find-the-difference) |
 | [0917-reverse-only-letters](https://github.com/mtanzeem049-del/MD/tree/master/0917-reverse-only-letters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mtanzeem049-del/MD/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
@@ -107,6 +110,7 @@
 | ------- |
 | [0136-single-number](https://github.com/mtanzeem049-del/MD/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/mtanzeem049-del/MD/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/mtanzeem049-del/MD/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mtanzeem049-del/MD/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Pigeonhole Principle
 |  |
