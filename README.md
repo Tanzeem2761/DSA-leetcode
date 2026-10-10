@@ -127,6 +127,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/mtanzeem049-del/MD/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/mtanzeem049-del/MD/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -149,4 +150,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mtanzeem049-del/MD/tree/master/0215-kth-largest-element-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/mtanzeem049-del/MD/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
