@@ -18,6 +18,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mtanzeem049-del/MD/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/mtanzeem049-del/MD/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/mtanzeem049-del/MD/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -37,6 +38,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mtanzeem049-del/MD/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mtanzeem049-del/MD/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/mtanzeem049-del/MD/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/mtanzeem049-del/MD/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/mtanzeem049-del/MD/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/mtanzeem049-del/MD/tree/master/0162-find-peak-element) |
@@ -141,6 +143,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mtanzeem049-del/MD/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mtanzeem049-del/MD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mtanzeem049-del/MD/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
