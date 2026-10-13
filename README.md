@@ -6,6 +6,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/mtanzeem049-del/MD/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/mtanzeem049-del/MD/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/mtanzeem049-del/MD/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/mtanzeem049-del/MD/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/mtanzeem049-del/MD/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/mtanzeem049-del/MD/tree/master/0509-fibonacci-number) |
@@ -117,6 +118,7 @@
 | ------- |
 | [0136-single-number](https://github.com/mtanzeem049-del/MD/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/mtanzeem049-del/MD/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/mtanzeem049-del/MD/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/mtanzeem049-del/MD/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mtanzeem049-del/MD/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Pigeonhole Principle
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mtanzeem049-del/MD/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/mtanzeem049-del/MD/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/mtanzeem049-del/MD/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
