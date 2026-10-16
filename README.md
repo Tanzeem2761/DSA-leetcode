@@ -14,6 +14,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mtanzeem049-del/MD/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mtanzeem049-del/MD/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/mtanzeem049-del/MD/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/mtanzeem049-del/MD/tree/master/2413-smallest-even-multiple) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mtanzeem049-del/MD/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mtanzeem049-del/MD/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mtanzeem049-del/MD/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/mtanzeem049-del/MD/tree/master/2413-smallest-even-multiple) |
 ## Divide and Conquer
 |  |
 | ------- |
