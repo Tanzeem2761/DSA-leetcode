@@ -58,6 +58,7 @@
 | [1672-richest-customer-wealth](https://github.com/mtanzeem049-del/MD/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mtanzeem049-del/MD/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/mtanzeem049-del/MD/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mtanzeem049-del/MD/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mtanzeem049-del/MD/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mtanzeem049-del/MD/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -181,4 +182,8 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/mtanzeem049-del/MD/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/mtanzeem049-del/MD/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mtanzeem049-del/MD/tree/master/0876-middle-of-the-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mtanzeem049-del/MD/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
