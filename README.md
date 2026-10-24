@@ -73,6 +73,7 @@
 | [0344-reverse-string](https://github.com/mtanzeem049-del/MD/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/mtanzeem049-del/MD/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/mtanzeem049-del/MD/tree/master/0917-reverse-only-letters) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mtanzeem049-del/MD/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/mtanzeem049-del/MD/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/mtanzeem049-del/MD/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/mtanzeem049-del/MD/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mtanzeem049-del/MD/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Enumeration
 |  |
 | ------- |
