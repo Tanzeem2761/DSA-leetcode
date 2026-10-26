@@ -47,6 +47,7 @@
 | [0136-single-number](https://github.com/mtanzeem049-del/MD/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/mtanzeem049-del/MD/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mtanzeem049-del/MD/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/mtanzeem049-del/MD/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mtanzeem049-del/MD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mtanzeem049-del/MD/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mtanzeem049-del/MD/tree/master/0287-find-the-duplicate-number) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mtanzeem049-del/MD/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mtanzeem049-del/MD/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mtanzeem049-del/MD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/mtanzeem049-del/MD/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/mtanzeem049-del/MD/tree/master/0414-third-maximum-number) |
@@ -86,12 +88,14 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mtanzeem049-del/MD/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/mtanzeem049-del/MD/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mtanzeem049-del/MD/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/mtanzeem049-del/MD/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mtanzeem049-del/MD/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mtanzeem049-del/MD/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mtanzeem049-del/MD/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -162,6 +166,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mtanzeem049-del/MD/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/mtanzeem049-del/MD/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mtanzeem049-del/MD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mtanzeem049-del/MD/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
@@ -188,4 +193,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mtanzeem049-del/MD/tree/master/2778-sum-of-squares-of-special-elements) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mtanzeem049-del/MD/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
