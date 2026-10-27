@@ -17,6 +17,7 @@
 | [2235-add-two-integers](https://github.com/mtanzeem049-del/MD/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/mtanzeem049-del/MD/tree/master/2413-smallest-even-multiple) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mtanzeem049-del/MD/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mtanzeem049-del/MD/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mtanzeem049-del/MD/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mtanzeem049-del/MD/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
@@ -60,6 +61,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mtanzeem049-del/MD/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/mtanzeem049-del/MD/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mtanzeem049-del/MD/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mtanzeem049-del/MD/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mtanzeem049-del/MD/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mtanzeem049-del/MD/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -110,6 +112,7 @@
 | [0258-add-digits](https://github.com/mtanzeem049-del/MD/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/mtanzeem049-del/MD/tree/master/0566-reshape-the-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mtanzeem049-del/MD/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mtanzeem049-del/MD/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +131,7 @@
 | [0566-reshape-the-matrix](https://github.com/mtanzeem049-del/MD/tree/master/0566-reshape-the-matrix) |
 | [1672-richest-customer-wealth](https://github.com/mtanzeem049-del/MD/tree/master/1672-richest-customer-wealth) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/mtanzeem049-del/MD/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mtanzeem049-del/MD/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Bit Manipulation
 |  |
 | ------- |
