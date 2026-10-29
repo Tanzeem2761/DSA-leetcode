@@ -7,6 +7,7 @@
 | [0202-happy-number](https://github.com/mtanzeem049-del/MD/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/mtanzeem049-del/MD/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/mtanzeem049-del/MD/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/mtanzeem049-del/MD/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/mtanzeem049-del/MD/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/mtanzeem049-del/MD/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/mtanzeem049-del/MD/tree/master/0507-perfect-number) |
@@ -29,14 +30,17 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/mtanzeem049-del/MD/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/mtanzeem049-del/MD/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/mtanzeem049-del/MD/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/mtanzeem049-del/MD/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/mtanzeem049-del/MD/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/mtanzeem049-del/MD/tree/master/1025-divisor-game) |
 ## Array
 |  |
@@ -201,4 +205,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mtanzeem049-del/MD/tree/master/0169-majority-element) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mtanzeem049-del/MD/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/mtanzeem049-del/MD/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
