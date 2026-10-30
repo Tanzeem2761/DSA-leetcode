@@ -213,4 +213,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/mtanzeem049-del/MD/tree/master/0292-nim-game) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/mtanzeem049-del/MD/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/mtanzeem049-del/MD/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
