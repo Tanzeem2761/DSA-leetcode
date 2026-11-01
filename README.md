@@ -27,6 +27,7 @@
 | [0053-maximum-subarray](https://github.com/mtanzeem049-del/MD/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/mtanzeem049-del/MD/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/mtanzeem049-del/MD/tree/master/1025-divisor-game) |
+| [3665-twisted-mirror-path-count](https://github.com/mtanzeem049-del/MD/tree/master/3665-twisted-mirror-path-count) |
 ## Brainteaser
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/mtanzeem049-del/MD/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mtanzeem049-del/MD/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mtanzeem049-del/MD/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3665-twisted-mirror-path-count](https://github.com/mtanzeem049-del/MD/tree/master/3665-twisted-mirror-path-count) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mtanzeem049-del/MD/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -138,6 +140,7 @@
 | [1672-richest-customer-wealth](https://github.com/mtanzeem049-del/MD/tree/master/1672-richest-customer-wealth) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/mtanzeem049-del/MD/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mtanzeem049-del/MD/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3665-twisted-mirror-path-count](https://github.com/mtanzeem049-del/MD/tree/master/3665-twisted-mirror-path-count) |
 ## Bit Manipulation
 |  |
 | ------- |
