@@ -17,6 +17,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mtanzeem049-del/MD/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/mtanzeem049-del/MD/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/mtanzeem049-del/MD/tree/master/2413-smallest-even-multiple) |
+| [2652-sum-multiples](https://github.com/mtanzeem049-del/MD/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mtanzeem049-del/MD/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mtanzeem049-del/MD/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mtanzeem049-del/MD/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
