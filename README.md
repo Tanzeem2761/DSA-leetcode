@@ -64,6 +64,7 @@
 | [0414-third-maximum-number](https://github.com/mtanzeem049-del/MD/tree/master/0414-third-maximum-number) |
 | [0566-reshape-the-matrix](https://github.com/mtanzeem049-del/MD/tree/master/0566-reshape-the-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mtanzeem049-del/MD/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0922-sort-array-by-parity-ii](https://github.com/mtanzeem049-del/MD/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mtanzeem049-del/MD/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1550-three-consecutive-odds](https://github.com/mtanzeem049-del/MD/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/mtanzeem049-del/MD/tree/master/1672-richest-customer-wealth) |
@@ -87,6 +88,7 @@
 | [0344-reverse-string](https://github.com/mtanzeem049-del/MD/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/mtanzeem049-del/MD/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/mtanzeem049-del/MD/tree/master/0917-reverse-only-letters) |
+| [0922-sort-array-by-parity-ii](https://github.com/mtanzeem049-del/MD/tree/master/0922-sort-array-by-parity-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mtanzeem049-del/MD/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -96,6 +98,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/mtanzeem049-del/MD/tree/master/0215-kth-largest-element-in-an-array) |
 | [0389-find-the-difference](https://github.com/mtanzeem049-del/MD/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/mtanzeem049-del/MD/tree/master/0414-third-maximum-number) |
+| [0922-sort-array-by-parity-ii](https://github.com/mtanzeem049-del/MD/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mtanzeem049-del/MD/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
