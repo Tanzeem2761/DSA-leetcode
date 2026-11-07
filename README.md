@@ -69,6 +69,7 @@
 | [1550-three-consecutive-odds](https://github.com/mtanzeem049-del/MD/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/mtanzeem049-del/MD/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mtanzeem049-del/MD/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/mtanzeem049-del/MD/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/mtanzeem049-del/MD/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mtanzeem049-del/MD/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mtanzeem049-del/MD/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -121,6 +122,7 @@
 | [0389-find-the-difference](https://github.com/mtanzeem049-del/MD/tree/master/0389-find-the-difference) |
 | [0917-reverse-only-letters](https://github.com/mtanzeem049-del/MD/tree/master/0917-reverse-only-letters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mtanzeem049-del/MD/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/mtanzeem049-del/MD/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |
