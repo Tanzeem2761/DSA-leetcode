@@ -64,6 +64,7 @@
 | [0414-third-maximum-number](https://github.com/mtanzeem049-del/MD/tree/master/0414-third-maximum-number) |
 | [0566-reshape-the-matrix](https://github.com/mtanzeem049-del/MD/tree/master/0566-reshape-the-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mtanzeem049-del/MD/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mtanzeem049-del/MD/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/mtanzeem049-del/MD/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mtanzeem049-del/MD/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1550-three-consecutive-odds](https://github.com/mtanzeem049-del/MD/tree/master/1550-three-consecutive-odds) |
@@ -143,6 +144,7 @@
 | [0287-find-the-duplicate-number](https://github.com/mtanzeem049-del/MD/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/mtanzeem049-del/MD/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mtanzeem049-del/MD/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mtanzeem049-del/MD/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Matrix
 |  |
 | ------- |
@@ -242,4 +244,8 @@
 |  |
 | ------- |
 | [2236-root-equals-sum-of-children](https://github.com/mtanzeem049-del/MD/tree/master/2236-root-equals-sum-of-children) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/mtanzeem049-del/MD/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
