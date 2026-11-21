@@ -63,6 +63,7 @@
 | [0287-find-the-duplicate-number](https://github.com/mtanzeem049-del/MD/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/mtanzeem049-del/MD/tree/master/0414-third-maximum-number) |
 | [0566-reshape-the-matrix](https://github.com/mtanzeem049-del/MD/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/mtanzeem049-del/MD/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mtanzeem049-del/MD/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mtanzeem049-del/MD/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/mtanzeem049-del/MD/tree/master/0922-sort-array-by-parity-ii) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/mtanzeem049-del/MD/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/mtanzeem049-del/MD/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/mtanzeem049-del/MD/tree/master/0682-baseball-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mtanzeem049-del/MD/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/mtanzeem049-del/MD/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Binary Search
@@ -252,4 +254,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mtanzeem049-del/MD/tree/master/0852-peak-index-in-a-mountain-array) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/mtanzeem049-del/MD/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
